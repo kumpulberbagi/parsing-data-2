@@ -1,0 +1,25 @@
+{
+  "name": "parsing-data-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "dependencies": {
+    "fast-csv": "^2.3.0",
+    "jsonfile": "^2.4.0",
+    "write-yaml": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonisetiawan/parsing-data-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yonisetiawan/parsing-data-2/issues"
+  },
+  "homepage": "https://github.com/yonisetiawan/parsing-data-2#readme"
+}
